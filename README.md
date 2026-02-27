@@ -1,6 +1,7 @@
 🌍 MoveWithIt ✈️
 Tourism Agency Website
 <p align="center"> <img src="SVGs/MoveWithIt_Logo.svg" width="180" alt="MoveWithIt Logo"/> </p> <p align="center"> <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5" /> <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3" /> <img src="https://img.shields.io/badge/Bootstrap-5.3-purple?style=for-the-badge&logo=bootstrap" /> <img src="https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> </p>
+
 🚀 About The Project
 
 MoveWithIt is a modern and responsive tourism agency website built using HTML5 and Bootstrap 5.
@@ -27,20 +28,7 @@ This project demonstrates strong fundamentals in:
 
 🎯 UI presentation
 
-📂 Repository Structure
-MoveWithIt/
-│── index.html
-│
-├── images/
-│   ├── main Poster.jpg
-│   ├── 2nd image.png
-│   └── 3rd.png
-│
-└── SVGs/
-    ├── MoveWithIt_Logo.svg
-    ├── MoveWithIt_Expert_Planning.svg
-    ├── MoveWithIt_Tours.svg
-    └── MoveWithIt_Personalized.svg
+    
 ✨ Key Features
 
 ✔ Responsive Navigation Bar
