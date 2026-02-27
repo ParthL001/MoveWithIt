@@ -1,40 +1,47 @@
-🌍 MoveWithIt
-✈️ Tourism Agency Website
+🌍 MoveWithIt ✈️
+Tourism Agency Website
 <p align="center"> <img src="SVGs/MoveWithIt_Logo.svg" width="180" alt="MoveWithIt Logo"/> </p> <p align="center"> <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5" /> <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3" /> <img src="https://img.shields.io/badge/Bootstrap-5.3-purple?style=for-the-badge&logo=bootstrap" /> <img src="https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> </p>
-
 🚀 About The Project
+
 MoveWithIt is a modern and responsive tourism agency website built using HTML5 and Bootstrap 5.
+
 It is designed to showcase:
-Travel services
-Destination highlights
-Professional image carousel
-Service features with SVG icons
-Clean and structured UI
+
+🌍 Travel services
+
+🗺 Destination highlights
+
+🎡 Professional image carousel
+
+🎨 Service features with SVG icons
+
+✨ Clean and structured UI
+
 This project demonstrates strong fundamentals in:
-Responsive design
-Bootstrap components
-Layout structuring
-UI presentation
+
+📱 Responsive design
+
+🧩 Bootstrap components
+
+🏗 Layout structuring
+
+🎯 UI presentation
 
 📂 Repository Structure
 MoveWithIt/
-|
 │── index.html
-|
-│── images/
-|
-│     ├── main Poster.jpg
-│     ├── 2nd image.png
-│     ├── 3rd.png
 │
-│── SVGs/
-|
-│     ├── MoveWithIt_Logo.svg
-│     ├── MoveWithIt_Expert_Planning.svg
-│     ├── MoveWithIt_Tours.svg
-│     ├── MoveWithIt_Personalized.svg
+├── images/
+│   ├── main Poster.jpg
+│   ├── 2nd image.png
+│   └── 3rd.png
 │
-
+└── SVGs/
+    ├── MoveWithIt_Logo.svg
+    ├── MoveWithIt_Expert_Planning.svg
+    ├── MoveWithIt_Tours.svg
+    └── MoveWithIt_Personalized.svg
+✨ Key Features
 
 ✔ Responsive Navigation Bar
 ✔ Hero Section with CTA Buttons
@@ -44,12 +51,16 @@ MoveWithIt/
 ✔ Dark Theme Support
 ✔ Mobile-Friendly Layout
 
-🛠️ Technologies Used
+🛠 Technologies Used
 
 HTML5
+
 CSS3
+
 Bootstrap 5.3
+
 SVG Graphics
+
 Bootstrap JS Bundle
 
 🔧 How to Run the Project
@@ -57,26 +68,35 @@ Bootstrap JS Bundle
 git clone https://github.com/ParthL001/MoveWithIt.git
 2️⃣ Open the project folder
 cd MoveWithIt
-3️⃣ Open in browser
+3️⃣ Open in your browser
+
 Open index.html in your browser.
+
 No server required — fully static project.
 
 🎯 Learning Highlights
 
-This project demonstrates:
 Bootstrap Grid System
+
 Navbar & Carousel components
+
 Custom styling improvements
+
 Responsive image handling
+
 Clean project structuring
 
 🌱 Future Improvements
 
 Add booking form
+
 Backend integration (Flask / Node.js)
+
 Authentication system
+
 Database integration
-Deployment (Netlify / GitHub Pages)
+
+Deploy via GitHub Pages
 
 👨‍💻 Author
 
