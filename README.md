@@ -54,8 +54,10 @@ Bootstrap JS Bundle
 🔧 How to Run the Project
 1️⃣ Clone the repository
 git clone https://github.com/ParthL001/MoveWithIt.git
+
 2️⃣ Open the project folder
 cd MoveWithIt
+
 3️⃣ Open in your browser
 
 Open index.html in your browser.
